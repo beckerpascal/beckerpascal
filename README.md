@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on robots, ROS and software.
 
-[![Pascal's github stats](https://github-readme-stats.vercel.app/api?username=beckerpascal)](https://github.com/anuraghazra/github-readme-stats)
+[![Pascal's github stats](https://github-readme-stats.vercel.app/api?username=beckerpascal&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **beckerpascal/beckerpascal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
